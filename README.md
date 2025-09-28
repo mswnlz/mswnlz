@@ -4,7 +4,7 @@
 
 - 🐧       QQ群： **1041415822**
 - 📫  大坝资源站： **https://doc.869hr.uk**
-- 👯 Telegram群： **[https://t.me/tgmknow](https://t.me/tgmShare/5)**
+- 👯 Telegram群： **[https://t.me/tgmShare](https://t.me/tgmShare/5)**
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mswnlz&show_icons=true&theme=tokyonight&hide=prs,contribs)" alt="mswnlz" />
 </p>
